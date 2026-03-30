@@ -1,0 +1,22 @@
+export const DAILY_MEDITATIONS = [
+  { quote: "The happiness of your life depends upon the quality of your thoughts.", author: "Marcus Aurelius" },
+  { quote: "We suffer more often in imagination than in reality.", author: "Seneca" },
+  { quote: "He who has a why to live for can bear almost any how.", author: "Friedrich Nietzsche" },
+  { quote: "Nature does not hurry, yet everything is accomplished.", author: "Lao Tzu" },
+  { quote: "You only lose what you cling to.", author: "The Buddha" },
+  { quote: "We are what we repeatedly do. Excellence, then, is not an act, but a habit.", author: "Aristotle" },
+  { quote: "The unexamined life is not worth living.", author: "Socrates" },
+  { quote: "It is not what happens to you, but how you react to it that matters.", author: "Epictetus" },
+  { quote: "To be calm is the highest achievement of the self.", author: "Zen Proverb" },
+  { quote: "Knowing others is intelligence; knowing yourself is true wisdom.", author: "Lao Tzu" },
+  { quote: "No man ever steps in the same river twice, for it's not the same river and he's not the same man.", author: "Heraclitus" },
+  { quote: "Happiness is a good flow of life.", author: "Zeno of Citium" },
+  { quote: "The obstacle is the path.", author: "Zen Proverb" },
+  { quote: "If you are distressed by anything external, the pain is not due to the thing itself, but to your estimate of it.", author: "Marcus Aurelius" },
+  { quote: "Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control.", author: "Epictetus" },
+  { quote: "Wealth consists not in having great possessions, but in having few wants.", author: "Epictetus" },
+  { quote: "The more you know, the more you know you don't know.", author: "Aristotle" },
+  { quote: "I cannot teach anybody anything. I can only make them think.", author: "Socrates" },
+  { quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.", author: "The Buddha" },
+  { quote: "When you arise in the morning think of what a privilege it is to be alive, to think, to enjoy, to love.", author: "Marcus Aurelius" }
+];
